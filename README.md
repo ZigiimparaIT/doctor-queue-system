@@ -29,6 +29,25 @@ https://numeretti-dottore-7c291.web.app
 
 https://numeretti-dottore-7c291.web.app/dottore
 
+## 📷 Screenshots
+
+### Doctor Authentication
+
+![Authentication](screenshots/authentication%20doc.png)
+
+### Doctor Panel (Initial State)
+
+![Doctor Panel (Initial State)](screenshots/number%200%20doc.png)
+
+
+### Doctor Panel n. 7
+
+![Doctor Panel](screenshots/number%207%20doc.png)
+
+### Patient View n. 7
+
+![Patient View](screenshots/number%207%20patients.png)
+
 ## Why I built this
 
 I built this project because the queue at my local doctor's office was often very long, and patients had no way of knowing when it was their turn unless they stayed inside the waiting room.
